@@ -1,0 +1,20 @@
+{
+  "name": "python-p4-chatterbox-lab",
+  "version": "1.0.0",
+  "description": "- Create an API with Flask for a React frontend application.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WanjiruMargaret/python-p4-chatterbox-lab.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/WanjiruMargaret/python-p4-chatterbox-lab/issues"
+  },
+  "homepage": "https://github.com/WanjiruMargaret/python-p4-chatterbox-lab#readme"
+}
